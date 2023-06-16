@@ -11,7 +11,7 @@ import SwiftUI
 struct jankenApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView() // tutorial
         }
     }
 }
